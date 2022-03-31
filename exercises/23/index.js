@@ -1,2 +1,2 @@
-const images = Array.from(document.querySelectorAll("img"))
+const images = document.querySelectorAll("img")
 images.forEach(image => (console.log(image.src)))

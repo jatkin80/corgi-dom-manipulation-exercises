@@ -1,2 +1,2 @@
 const p = document.querySelector("p")
-console.log(p.outerHTML)
+console.log(p.textContent)
