@@ -1,2 +1,2 @@
-const h1 = document.querySelector('h1')
+const h1 = document.querySelector('.primary-heading')
 console.log(h1)
