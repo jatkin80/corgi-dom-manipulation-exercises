@@ -1,5 +1,7 @@
 # Corgi DOM Manipulation Exercises
 
+100% sure that I WAY overthought this...
+
 * [#1](exercises/1)
 * [#2](exercises/2)
 * [#3](exercises/3)
