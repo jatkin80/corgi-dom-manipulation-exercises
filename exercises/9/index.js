@@ -1,2 +1,2 @@
-const lis = document.querySelectorAll("li.lastChild")
-lis.forEach(li => li.className = 'corgi-queen')
+const li = document.querySelector("li")
+li.className = 'corgi-queen'
