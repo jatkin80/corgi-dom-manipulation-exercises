@@ -1,3 +1,4 @@
-const lis = document.querySelectorAll("li")
+const li = document.querySelectorAll("li")
 
-lis.forEach(li => li.classList = "corgi")
+li.forEach(li => li.classList.remove("dog"))
+li.forEach(li => li.classList.add("corgi"))
